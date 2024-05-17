@@ -1,1 +1,1 @@
-# automateNetflix
+# netflixAutomation

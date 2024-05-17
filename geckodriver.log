@@ -1,0 +1,1809 @@
+1596554993899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileuxepMF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596554996552	Marionette	INFO	Listening on port 50211
+1596554997048	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1596555016664	Marionette	INFO	Stopped listening on port 50211
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1596556075956	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilekszxqG"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596556078684	Marionette	INFO	Listening on port 50265
+1596556079096	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596556119631	Marionette	INFO	Stopped listening on port 50265
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608211403761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilej0Dbhx"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608211408231	Marionette	INFO	Listening on port 53081
+1608211408615	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608211442345	Marionette	INFO	Stopped listening on port 53081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608211447059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilec3kyEZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608211450317	Marionette	INFO	Listening on port 53150
+1608211450760	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1608211486156	Marionette	INFO	Stopped listening on port 53150
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1608211490833	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilepFS6EQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1608211496430	Marionette	INFO	Listening on port 53212
+1608211496666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608211527752	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0027.513.051.js, line 1: unreachable code after return statement
+1608211538095	Marionette	INFO	Stopped listening on port 53212
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428101998	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileVXhDq0"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428104859	Marionette	INFO	Listening on port 56822
+1611428105133	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428135205	Marionette	INFO	Stopped listening on port 56822
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428139335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCmKLTc"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428141343	Marionette	INFO	Listening on port 56883
+1611428141386	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428170999	Marionette	INFO	Stopped listening on port 56883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428174942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileoW6U3c"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428177415	Marionette	INFO	Listening on port 56939
+1611428177602	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428208157	Marionette	INFO	Stopped listening on port 56939
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428212038	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiletN7the"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428214513	Marionette	INFO	Listening on port 57038
+1611428214665	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611428244411	Marionette	INFO	Stopped listening on port 57038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428248527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileMZol2H"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428250770	Marionette	INFO	Listening on port 57108
+1611428251178	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428280864	Marionette	INFO	Stopped listening on port 57108
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428284724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileAvzLKz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428286771	Marionette	INFO	Listening on port 57170
+1611428286861	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428316840	Marionette	INFO	Stopped listening on port 57170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428321078	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileVAN9sm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428323233	Marionette	INFO	Listening on port 57226
+1611428323730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611428353762	Marionette	INFO	Stopped listening on port 57226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428357687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile2zeSHm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428359766	Marionette	INFO	Listening on port 57282
+1611428359819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v000c1de3/js/js/components%7Clogin%7ClogoutClient.js/2/0b4P034k4b4m06474u4O080p004Q4p4K4w4n4J4d4v4y0a024L15/l/true/none, line 1: Error: clearUserData() failed.
+1611428421560	Marionette	INFO	Stopped listening on port 57282
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428425289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile3IdB5G"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428427367	Marionette	INFO	Listening on port 57355
+1611428427412	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 11728, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+[Child 11728, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1611428455850	Marionette	INFO	Stopped listening on port 57355
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611428517799	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileqvt6hz"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611428519878	Marionette	INFO	Listening on port 57463
+1611428519939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1611428524176	Marionette	INFO	Stopped listening on port 57463
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611607730780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileYPUCuw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611607737553	Marionette	INFO	Listening on port 57323
+1611607737698	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v000c1de3/js/js/components%7Clogin%7ClogoutClient.js/2/0b4P034k4b4m06474u4O080p004Q4p4K4w4n4J4d4v4y0a024L15/l/true/none, line 1: Error: clearUserData() failed.
+1611607805991	Marionette	INFO	Stopped listening on port 57323
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611607810935	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileLrAjYJ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611607817008	Marionette	INFO	Listening on port 57399
+1611607817230	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v000c1de3/js/js/components%7Clogin%7ClogoutClient.js/2/0b4P034k4b4m06474u4O080p004Q4p4K4w4n4J4d4v4y0a024L15/l/true/none, line 1: Error: clearUserData() failed.
+1611607885449	Marionette	INFO	Stopped listening on port 57399
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611607890779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileBS9lKU"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611607897114	Marionette	INFO	Listening on port 57479
+1611607897194	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611607935213	Marionette	INFO	Stopped listening on port 57479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611607940033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilewXwK7n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611607945738	Marionette	INFO	Listening on port 57544
+1611607945859	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1611607982686	Marionette	INFO	Stopped listening on port 57544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611607987590	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileF2uTo5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611607993279	Marionette	INFO	Listening on port 57605
+1611607993368	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611608036742	Marionette	INFO	Stopped listening on port 57605
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611608041575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileVGpMxo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611608046882	Marionette	INFO	Listening on port 57674
+1611608047375	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611608084692	Marionette	INFO	Stopped listening on port 57674
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611608089060	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileQOD5F5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611608094463	Marionette	INFO	Listening on port 57739
+1611608094872	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611608133009	Marionette	INFO	Stopped listening on port 57739
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611608137593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileyiLaU8"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611608143075	Marionette	INFO	Listening on port 57805
+1611608143384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1611608188547	Marionette	INFO	Stopped listening on port 57805
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1611608193421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilez5Aoqu"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1611608199006	Marionette	INFO	Listening on port 57874
+1611608199225	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://marionette/content/proxy.js, line 287: NS_ERROR_NOT_INITIALIZED
+1611608248841	Marionette	INFO	Stopped listening on port 57874
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873289586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileBddFVB"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873292720	Marionette	INFO	Listening on port 49762
+1614873292881	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v9ae73f84/js/js/components%7Clogin%7ClogoutClient.js/2/0b4K034j4a4l06464q4J080o004L4o4F4s4m4E4c4r4u0a024G14/l/true/none, line 1: Error: clearUserData() failed.
+1614873351771	Marionette	INFO	Stopped listening on port 49762
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873355751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile1BtEJm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873357887	Marionette	INFO	Listening on port 49842
+1614873357919	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v9ae73f84/js/js/components%7Clogin%7ClogoutClient.js/2/0b4K034j4a4l06464q4J080o004L4o4F4s4m4E4c4r4u0a024G14/l/true/none, line 1: Error: clearUserData() failed.
+1614873416905	Marionette	INFO	Stopped listening on port 49842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873420653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilepKGwq4"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873422744	Marionette	INFO	Listening on port 49920
+1614873422807	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873536763	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileV6u2or"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873538951	Marionette	INFO	Listening on port 50002
+1614873539405	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873570315	Marionette	INFO	Stopped listening on port 50002
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873574315	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCKULFo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873576435	Marionette	INFO	Listening on port 50070
+1614873576448	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873606880	Marionette	INFO	Stopped listening on port 50070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873611082	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilewXRS6z"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873613277	Marionette	INFO	Listening on port 50130
+1614873613730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873644507	Marionette	INFO	Stopped listening on port 50130
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873648502	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileqZ7QXg"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873650588	Marionette	INFO	Listening on port 50201
+1614873650626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873680987	Marionette	INFO	Stopped listening on port 50201
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873684846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileUdL7eI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873686925	Marionette	INFO	Listening on port 50266
+1614873686968	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1614873717574	Marionette	INFO	Stopped listening on port 50266
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873721564	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilee20GOY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873723677	Marionette	INFO	Listening on port 50330
+1614873723719	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873754590	Marionette	INFO	Stopped listening on port 50330
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873758612	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilea1ykPF"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873760629	Marionette	INFO	Listening on port 50394
+1614873760639	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873791816	Marionette	INFO	Stopped listening on port 50394
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873795818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile48hijX"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873798019	Marionette	INFO	Listening on port 50453
+1614873798460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873828994	Marionette	INFO	Stopped listening on port 50453
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873832958	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileFYfEQl"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873835065	Marionette	INFO	Listening on port 50524
+1614873835125	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873865561	Marionette	INFO	Stopped listening on port 50524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614873869454	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilecrxqvV"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614873871552	Marionette	INFO	Listening on port 50587
+1614873871611	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614873934181	Marionette	INFO	Stopped listening on port 50587
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874067397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilei2j5vI"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874069476	Marionette	INFO	Listening on port 50748
+1614874069521	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874106635	Marionette	INFO	Stopped listening on port 50748
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874110594	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileKUqkDT"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874112692	Marionette	INFO	Listening on port 50816
+1614874112722	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874136642	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1614874139711	Marionette	INFO	Stopped listening on port 50816
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874175699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilevcl2pN"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874177722	Marionette	INFO	Listening on port 50888
+1614874177820	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874212043	Marionette	INFO	Stopped listening on port 50888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874215942	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileAjW1PY"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874217960	Marionette	INFO	Listening on port 50956
+1614874217983	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874254684	Marionette	INFO	Stopped listening on port 50956
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874258598	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileSDKrcZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874260646	Marionette	INFO	Listening on port 51033
+1614874260743	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874278763	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1614874286328	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1614874293876	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1614874300620	Marionette	INFO	Stopped listening on port 51033
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874304296	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJQtt5Q"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874306773	Marionette	INFO	Listening on port 51144
+1614874306905	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874340821	Marionette	INFO	Stopped listening on port 51144
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874344683	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileddezQh"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874346881	Marionette	INFO	Listening on port 51217
+1614874347307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-v9ae73f84/js/js/components%7Clogin%7ClogoutClient.js/2/0b4K034j4a4l06464q4J080o004L4o4F4s4m4E4c4r4u0a024G14/l/true/none, line 1: Error: clearUserData() failed.
+1614874413141	Marionette	INFO	Stopped listening on port 51217
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874416825	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilerKIf62"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874418867	Marionette	INFO	Listening on port 51300
+1614874418964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874454889	Marionette	INFO	Stopped listening on port 51300
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874458642	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileTR3vf3"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874460727	Marionette	INFO	Listening on port 51369
+1614874460752	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874495030	Marionette	INFO	Stopped listening on port 51369
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874498765	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileTH9uwQ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874501036	Marionette	INFO	Listening on port 51440
+1614874501384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874535222	Marionette	INFO	Stopped listening on port 51440
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1614874539152	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilebA5Jpw"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1614874541232	Marionette	INFO	Listening on port 51509
+1614874541278	Marionette	WARN	TLS certificate errors will be ignored for this session
+1614874635528	Marionette	INFO	Stopped listening on port 51509
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212764852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileYCb9GZ"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212767647	Marionette	INFO	Listening on port 49498
+1615212767993	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212801630	Marionette	INFO	Stopped listening on port 49498
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212805623	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileln7sFD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212807706	Marionette	INFO	Listening on port 49566
+1615212807756	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212837874	Marionette	INFO	Stopped listening on port 49566
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212841822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile5qGRmS"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212843891	Marionette	INFO	Listening on port 49627
+1615212843963	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212874517	Marionette	INFO	Stopped listening on port 49627
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212878534	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile058yW5"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212880723	Marionette	INFO	Listening on port 49694
+1615212881167	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212911642	Marionette	INFO	Stopped listening on port 49694
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212915574	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiles49cY7"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212917652	Marionette	INFO	Listening on port 49756
+1615212917732	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212948530	Marionette	INFO	Stopped listening on port 49756
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212952639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJFUe28"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212954851	Marionette	INFO	Listening on port 49820
+1615212955291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615212985671	Marionette	INFO	Stopped listening on port 49820
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615212989592	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiledU3wnD"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615212991657	Marionette	INFO	Listening on port 49883
+1615212991730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615213022179	Marionette	INFO	Stopped listening on port 49883
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615213026059	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilepnrVni"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615213028150	Marionette	INFO	Listening on port 49943
+1615213028195	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615213058686	Marionette	INFO	Stopped listening on port 49943
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615213062690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile7HbQ7A"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615213064832	Marionette	INFO	Listening on port 50004
+1615213065323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615213096976	Marionette	INFO	Stopped listening on port 50004
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615213101013	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileoqTH7n"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615213103238	Marionette	INFO	Listening on port 50070
+1615213103644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615213128875	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+1615213135534	Marionette	INFO	Stopped listening on port 50070
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1615213139679	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileV6RvDm"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1615213141886	Marionette	INFO	Listening on port 50149
+1615213142304	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615213209222	Marionette	INFO	Stopped listening on port 50149
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1619259795047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileNeadES"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1619259800170	Marionette	INFO	Listening on port 63428
+1619259800481	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619259826563	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:245:13
+TimedPromise@chrome://marionette/content/sync.js:230:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:416:10
+webdriverClickElement@chrome://marionette/content/interaction.js:182:31
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: NetworkError: A network error occurred.
+JavaScript error: , line 0: uncaught exception: Timeout (o)
+[Child 272, Chrome_ChildThread] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 524
+1619259873333	Marionette	INFO	Stopped listening on port 63428
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1619259880354	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIUDfJo"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1619259884052	Marionette	INFO	Listening on port 63515
+1619259884547	Marionette	WARN	TLS certificate errors will be ignored for this session
+1619260109819	Marionette	INFO	Stopped listening on port 63515
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileg3ACfi"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1619260018145	Marionette	INFO	Listening on port 63596
+1619260018164	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: , line 0: uncaught exception: Timeout
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A000D,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1619260115084	Marionette	INFO	Stopped listening on port 63596
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+egion" (new AbortError("The operation was aborted. ", (void 0), 636))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1619260121082	Marionette	INFO	Stopped listening on port 63691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627574190188	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIdNehd"
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1627574195482	Marionette	INFO	Listening on port 53628
+1627574195769	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://activity-stream/lib/CFRPageActions.jsm, line 356: TypeError: localeStrings is null
+JavaScript error: resource://activity-stream/lib/CFRPageActions.jsm, line 356: TypeError: localeStrings is null
+JavaScript error: resource://activity-stream/lib/CFRPageActions.jsm, line 356: TypeError: localeStrings is null
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+JavaScript error: resource://activity-stream/lib/CFRPageActions.jsm, line 356: TypeError: localeStrings is null
+1627574261693	Marionette	INFO	Stopped listening on port 53628
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1627574265818	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilegs00aI"
+1627574335938	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileiyz5he"
+1627574336560	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileiyz5he\\search.json.mozlz4", (void 0)))
+1627574339713	Marionette	INFO	Listening on port 53779
+1627574340184	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627574404404	Marionette	INFO	Stopped listening on port 53779
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627574408764	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCb4bXG"
+1627574409556	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCb4bXG\\search.json.mozlz4", (void 0)))
+1627574412612	Marionette	INFO	Listening on port 49914
+1627574413057	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627574448365	Marionette	INFO	Stopped listening on port 49914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627574452639	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile6CDYEY"
+1627574453192	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile6CDYEY\\search.json.mozlz4", (void 0)))
+1627574456370	Marionette	INFO	Listening on port 49992
+1627574456462	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627574524826	Marionette	INFO	Stopped listening on port 49992
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627574528916	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXYQAiQ"
+1627574529508	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXYQAiQ\\search.json.mozlz4", (void 0)))
+1627574532880	Marionette	INFO	Listening on port 50081
+1627574533216	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627574630107	Marionette	INFO	Stopped listening on port 50081
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627574634412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilerOxyxM"
+1627574635225	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilerOxyxM\\search.json.mozlz4", (void 0)))
+1627574638562	Marionette	INFO	Listening on port 50176
+1627574638655	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627574763724	Marionette	INFO	Stopped listening on port 50176
+1627574767882	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilePVWcxx"
+1627574768661	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilePVWcxx\\search.json.mozlz4", (void 0)))
+1627574771477	Marionette	INFO	Listening on port 50289
+1627574771639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5A0009,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+1627574949751	Marionette	INFO	Stopped listening on port 50289
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627574960727	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiledG1H6Q"
+1627574961352	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiledG1H6Q\\search.json.mozlz4", (void 0)))
+1627574964352	Marionette	INFO	Listening on port 50423
+1627574964511	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627575029219	Marionette	INFO	Stopped listening on port 50423
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575033931	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileOM93Hu"
+1627575034478	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileOM93Hu\\search.json.mozlz4", (void 0)))
+1627575037655	Marionette	INFO	Listening on port 50514
+1627575037699	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627575070835	Marionette	INFO	Stopped listening on port 50514
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575075428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXKfLhX"
+1627575076129	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXKfLhX\\search.json.mozlz4", (void 0)))
+1627575079729	Marionette	INFO	Listening on port 50589
+1627575079825	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627575113516	Marionette	INFO	Stopped listening on port 50589
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575117723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileuiR7en"
+1627575118412	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileuiR7en\\search.json.mozlz4", (void 0)))
+1627575121480	Marionette	INFO	Listening on port 50671
+1627575122004	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627575185274	Marionette	INFO	Stopped listening on port 50671
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575189687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileM744G6"
+1627575190268	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileM744G6\\search.json.mozlz4", (void 0)))
+1627575193153	Marionette	INFO	Listening on port 50769
+1627575193438	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627575226970	Marionette	INFO	Stopped listening on port 50769
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575231386	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilepQ9HFF"
+1627575232019	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilepQ9HFF\\search.json.mozlz4", (void 0)))
+1627575234960	Marionette	INFO	Listening on port 50842
+1627575235144	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627575294365	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627575299623	Marionette	INFO	Stopped listening on port 50842
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627575303895	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilezN91P9"
+1627575304513	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilezN91P9\\search.json.mozlz4", (void 0)))
+1627575307560	Marionette	INFO	Listening on port 50932
+1627575307707	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627575315265	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+JavaScript error: resource://activity-stream/lib/PersonalityProvider/PersonalityProvider.jsm, line 84: TypeError: http://%(server)s/dummy/blocklist// is not a valid URL.
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/170a56ca-c1bf-4181-9b30-693002f7e245.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/06e44aaa-324b-47ac-b458-72e1bccdf86b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/30c71fa2-8842-419c-89db-addd30268f5b.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/fa731eb2-b049-44bc-a12d-f42f7cea991d.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/2a0dbd55-2eae-44ea-b787-5379594979ff.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/bd6fe48d-f356-4af1-bb7e-4de42b1e6272.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/c2485f5d-8bb1-4a45-a752-efffe9cd55c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/281d6a98-5f8e-4bc4-8bae-72e7e16933ca.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/e8645388-afc5-48e3-8f3f-80f82a5353dc.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/47d2bcee-b6c1-464e-a443-e3527d029b0f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/18f03fe5-a60f-48c5-8cb8-13da750ca395.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/cdd3cdfb-1988-482a-850f-ec02aff07f45.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/a3944b1a-5464-406f-a97e-691702019575.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/61c97d21-6576-4624-aa8b-37839293aebd.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/1db0b78b-42f2-44fd-b78c-43f5fc760fa1.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/393f4033-c815-48d4-bf23-1eb42b4d30db.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/76666027-45db-4baa-8197-6e0f886966a8.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/24538f21-45ca-4dab-addb-65f655a688e2.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/ad749af2-93d7-4bf3-982f-a558175fd806.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/f477331d-33dc-4dfe-be46-88d5223fb439.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/8267a2cc-0984-4410-87db-c02530703a98.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/3fcbb458-7362-47bb-a426-6b542eb2f014.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/5d011771-de98-48f3-8565-7fc1ef6439c3.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/145b9461-d6cc-4341-8d96-ec3bacace059.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-models/0685a1b5-34eb-4c13-8c90-bc82735e527f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.error: "Failed to fetch undefinedmain-workspace/personality-provider-recipe/e4fb5038-c29e-4954-98a0-72a882e4841f.json: "
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1627576328797	Marionette	INFO	Stopped listening on port 50932
+ram Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileBDWJ5W"
+1627576142010	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileBDWJ5W\\search.json.mozlz4", (void 0)))
+1627576145079	Marionette	INFO	Listening on port 51042
+1627576145578	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576175236	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://marionette/content/sync.js:237:19
+TimedPromise@chrome://marionette/content/sync.js:222:10
+interaction.flushEventLoop@chrome://marionette/content/interaction.js:431:10
+webdriverClickElement@chrome://marionette/content/interaction.js:179:31
+1627576177781	Marionette	INFO	Stopped listening on port 51042
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576254569	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile8dmMhO"
+1627576255183	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile8dmMhO\\search.json.mozlz4", (void 0)))
+1627576258451	Marionette	INFO	Listening on port 51146
+1627576258832	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627576303925	Marionette	INFO	Stopped listening on port 51146
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576307823	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJKhSr9"
+1627576308590	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJKhSr9\\search.json.mozlz4", (void 0)))
+1627576312033	Marionette	INFO	Listening on port 51259
+1627576312126	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576347911	Marionette	INFO	Stopped listening on port 51259
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576352355	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileODuVrE"
+1627576352981	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileODuVrE\\search.json.mozlz4", (void 0)))
+1627576356263	Marionette	INFO	Listening on port 51353
+1627576356629	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576393207	Marionette	INFO	Stopped listening on port 51353
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576397839	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileH0rVor"
+1627576398430	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileH0rVor\\search.json.mozlz4", (void 0)))
+1627576401582	Marionette	INFO	Listening on port 51446
+1627576401607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576439189	Marionette	INFO	Stopped listening on port 51446
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576443225	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile71rNRt"
+1627576443852	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile71rNRt\\search.json.mozlz4", (void 0)))
+1627576446924	Marionette	INFO	Listening on port 51525
+1627576447022	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576488411	Marionette	INFO	Stopped listening on port 51525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576492512	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile9BxpWu"
+1627576493317	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile9BxpWu\\search.json.mozlz4", (void 0)))
+1627576496438	Marionette	INFO	Listening on port 51633
+1627576496769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576538847	Marionette	INFO	Stopped listening on port 51633
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576543049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile8tPOD5"
+1627576543699	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile8tPOD5\\search.json.mozlz4", (void 0)))
+1627576546905	Marionette	INFO	Listening on port 51720
+1627576547377	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576585632	Marionette	INFO	Stopped listening on port 51720
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576589701	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilexGM80u"
+1627576590476	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilexGM80u\\search.json.mozlz4", (void 0)))
+1627576593330	Marionette	INFO	Listening on port 51822
+1627576593468	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576633550	Marionette	INFO	Stopped listening on port 51822
+[Child 12240, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576637779	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIV5v5K"
+1627576638412	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIV5v5K\\search.json.mozlz4", (void 0)))
+1627576641559	Marionette	INFO	Listening on port 51928
+1627576642059	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576683695	Marionette	INFO	Stopped listening on port 51928
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576687876	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilexpFltx"
+1627576688618	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilexpFltx\\search.json.mozlz4", (void 0)))
+1627576691469	Marionette	INFO	Listening on port 52038
+1627576691636	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576729297	Marionette	INFO	Stopped listening on port 52038
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576733415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileRtsLmS"
+1627576734194	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileRtsLmS\\search.json.mozlz4", (void 0)))
+1627576737387	Marionette	INFO	Listening on port 52134
+1627576737685	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576778208	Marionette	INFO	Stopped listening on port 52134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576782401	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilevbar3n"
+1627576783002	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilevbar3n\\search.json.mozlz4", (void 0)))
+1627576786158	Marionette	INFO	Listening on port 52249
+1627576786705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576827948	Marionette	INFO	Stopped listening on port 52249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576831927	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXouC5w"
+1627576832525	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXouC5w\\search.json.mozlz4", (void 0)))
+1627576835564	Marionette	INFO	Listening on port 52351
+1627576835674	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576875770	Marionette	INFO	Stopped listening on port 52351
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576879698	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileplovJ4"
+1627576880316	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileplovJ4\\search.json.mozlz4", (void 0)))
+1627576883332	Marionette	INFO	Listening on port 52450
+1627576883424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627576923887	Marionette	INFO	Stopped listening on port 52450
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627576927948	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilevCY9dX"
+1627576928610	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilevCY9dX\\search.json.mozlz4", (void 0)))
+1627576931718	Marionette	INFO	Listening on port 52546
+1627576932199	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 11056, MediaDecoderStateMachine #1] WARNING: Decoder=1a7de42e000 state=DECODING_METADATA Decode metadata failed, shutting down decoder: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:366
+[Child 11056, MediaDecoderStateMachine #1] WARNING: Decoder=1a7de42e000 Decode error: NS_ERROR_DOM_MEDIA_METADATA_ERR (0x806e0006) - static MP4Metadata::ResultAndByteBuffer __cdecl mozilla::MP4Metadata::Metadata(mozilla::ByteStream *): Cannot parse metadata: file /builds/worker/checkouts/gecko/dom/media/MediaDecoderStateMachine.cpp:3490
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627577011215	Marionette	INFO	Stopped listening on port 52546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577015281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileinNwqF"
+1627577015920	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileinNwqF\\search.json.mozlz4", (void 0)))
+1627577018938	Marionette	INFO	Listening on port 52667
+1627577019059	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627577102690	Marionette	INFO	Stopped listening on port 52667
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577106932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileZoK42K"
+1627577107716	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileZoK42K\\search.json.mozlz4", (void 0)))
+1627577110614	Marionette	INFO	Listening on port 59467
+1627577110668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577161488	Marionette	INFO	Stopped listening on port 59467
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577165575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilemyDURP"
+1627577166265	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilemyDURP\\search.json.mozlz4", (void 0)))
+1627577169263	Marionette	INFO	Listening on port 59576
+1627577169300	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577209243	Marionette	INFO	Stopped listening on port 59576
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577213421	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileG74s7H"
+1627577213962	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileG74s7H\\search.json.mozlz4", (void 0)))
+1627577216976	Marionette	INFO	Listening on port 59649
+1627577217138	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577256725	Marionette	INFO	Stopped listening on port 59649
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577261000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIhWwwa"
+1627577261610	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileIhWwwa\\search.json.mozlz4", (void 0)))
+1627577264843	Marionette	INFO	Listening on port 59730
+1627577265251	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627577333125	Marionette	INFO	Stopped listening on port 59730
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577337046	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilejQBVWm"
+1627577337771	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilejQBVWm\\search.json.mozlz4", (void 0)))
+1627577340782	Marionette	INFO	Listening on port 64235
+1627577340839	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627577381853	Marionette	INFO	Stopped listening on port 64235
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577385979	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilex3ZHjP"
+1627577386552	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilex3ZHjP\\search.json.mozlz4", (void 0)))
+1627577389599	Marionette	INFO	Listening on port 64344
+1627577389748	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627577438291	Marionette	INFO	Stopped listening on port 64344
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577442229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileLVSEMB"
+1627577442905	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileLVSEMB\\search.json.mozlz4", (void 0)))
+1627577446384	Marionette	INFO	Listening on port 64436
+1627577446505	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577486047	Marionette	INFO	Stopped listening on port 64436
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577490138	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileuKkUL9"
+1627577490711	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileuKkUL9\\search.json.mozlz4", (void 0)))
+1627577493988	Marionette	INFO	Listening on port 64524
+1627577494428	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577563395	Marionette	INFO	Stopped listening on port 64524
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577567724	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJo22RN"
+1627577568326	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileJo22RN\\search.json.mozlz4", (void 0)))
+1627577571075	Marionette	INFO	Listening on port 64631
+1627577571512	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577608419	Marionette	INFO	Stopped listening on port 64631
+[Child 8116, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577612680	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiletxZjV1"
+1627577613282	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiletxZjV1\\search.json.mozlz4", (void 0)))
+1627577616341	Marionette	INFO	Listening on port 64735
+1627577616438	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627577654086	Marionette	INFO	Stopped listening on port 64735
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577660309	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileyrDfop"
+1627577660928	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileyrDfop\\search.json.mozlz4", (void 0)))
+1627577664061	Marionette	INFO	Listening on port 64833
+1627577664548	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577724881	Marionette	INFO	Stopped listening on port 64833
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577729144	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilegQblO6"
+1627577729737	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilegQblO6\\search.json.mozlz4", (void 0)))
+1627577732966	Marionette	INFO	Listening on port 64926
+1627577733415	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577769803	Marionette	INFO	Stopped listening on port 64926
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577774112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileWIqQuu"
+1627577774775	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileWIqQuu\\search.json.mozlz4", (void 0)))
+1627577777995	Marionette	INFO	Listening on port 65026
+1627577778378	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577814319	Marionette	INFO	Stopped listening on port 65026
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577818638	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile20QLbw"
+1627577819212	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofile20QLbw\\search.json.mozlz4", (void 0)))
+1627577822094	Marionette	INFO	Listening on port 65129
+1627577822424	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577862458	Marionette	INFO	Stopped listening on port 65129
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577866443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileWM0xzj"
+1627577867178	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileWM0xzj\\search.json.mozlz4", (void 0)))
+1627577870201	Marionette	INFO	Listening on port 65214
+1627577870701	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577906111	Marionette	INFO	Stopped listening on port 65214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577910194	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileRdAwHD"
+1627577910826	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileRdAwHD\\search.json.mozlz4", (void 0)))
+1627577913714	Marionette	INFO	Listening on port 65305
+1627577913945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627577961211	Marionette	INFO	Stopped listening on port 65305
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627577965318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCHwjD6"
+1627577966016	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileCHwjD6\\search.json.mozlz4", (void 0)))
+1627577968995	Marionette	INFO	Listening on port 65401
+1627577969078	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627578009869	Marionette	INFO	Stopped listening on port 65401
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627578013784	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXpX5i7"
+1627578014603	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofileXpX5i7\\search.json.mozlz4", (void 0)))
+1627578017682	Marionette	INFO	Listening on port 65478
+1627578018067	Marionette	WARN	TLS certificate errors will be ignored for this session
+1627578057961	Marionette	INFO	Stopped listening on port 65478
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627578062587	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilenjGSeG"
+1627578063365	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilenjGSeG\\search.json.mozlz4", (void 0)))
+1627578066452	Marionette	INFO	Listening on port 49190
+1627578066821	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1627578127891	Marionette	INFO	Stopped listening on port 49190
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627578132065	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilejKlDCy"
+1627578132644	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofilejKlDCy\\search.json.mozlz4", (void 0)))
+1627578135756	Marionette	INFO	Listening on port 49317
+1627578135801	Marionette	WARN	TLS certificate errors will be ignored for this session
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+1627578209841	Marionette	INFO	Stopped listening on port 49317
+[Child 7708, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1627578214124	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiledlp9Ux"
+1627578214827	Marionette	INFO	Marionette enabled
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ksaha\\AppData\\Local\\Temp\\rust_mozprofiledlp9Ux\\search.json.mozlz4", (void 0)))
+1627578217963	Marionette	INFO	Listening on port 49434
+1627578218403	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://codex.nflxext.com/%5E3.0.0/truthBundle/webui/1.22.5-shakti-js-vc87b9036/js/js/components%7Clogin%7ClogoutClient.js/2/0b3h022U2M2W052I2-3g070l003i2Z3c312X3b2O30330a013d0N/l/true/none, line 1: Error: clearUserData() failed.
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PMessagePort::Msg_PostMessages Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+JavaScript warning: https://assets.nflxext.com/en_us/ffe/player/html/cadmium-playercore-6.0031.631.911.js, line 1: unreachable code after return statement
+1627578671859	Marionette	INFO	Stopped listening on port 49434
+D:\Netflix Automation\geckodriver.exe: error: Found argument '--websocket-port' which wasn't expected, or isn't valid in this context
+
+USAGE:
+    geckodriver.exe [FLAGS] [OPTIONS]
+
+For more information try --help
+
